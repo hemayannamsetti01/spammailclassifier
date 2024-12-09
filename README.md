@@ -1,1 +1,1 @@
-# spammailclassifier
+# spam-email-classifier
